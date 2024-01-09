@@ -1,0 +1,6 @@
+apiVersion: v2
+name: hello-minikube-helm
+description: Helm chart for hello-minikube application
+type: application
+version: 0.0.1
+appVersion: "0.0.1"
